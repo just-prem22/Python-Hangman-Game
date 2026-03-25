@@ -1,4 +1,3 @@
-
 # 🎮 Hangman Game in Python
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
@@ -7,6 +6,36 @@
 ![Made With Love](https://img.shields.io/badge/Made%20With-❤️-red)
 
 > 🎯 A fun CLI-based Hangman game to practice Python fundamentals
+
+---
+
+## 📖 Overview
+
+**Hangman** is a classic word-guessing game where the player attempts to guess a hidden word one letter at a time.
+
+The game starts with a series of blanks representing each letter of a randomly chosen word. The player inputs guesses, and:
+
+* ✅ If the guessed letter is correct, it is revealed in all its positions in the word.
+* ❌ If the guessed letter is incorrect, the player loses one life.
+
+The game continues until one of the following happens:
+
+* 🎉 The player correctly guesses the entire word (Win)
+* 💀 The player runs out of lives (Lose)
+
+### 🧩 Why Hangman?
+
+Hangman is more than just a game — it’s a great way to practice:
+
+* Logical thinking
+* Pattern recognition
+* Problem-solving skills
+
+In programming, it helps beginners understand how to manage **state, loops, and conditions** effectively.
+
+### 🎯 Objective
+
+Guess the hidden word correctly before your lives run out by making smart letter guesses.
 
 ---
 
@@ -74,14 +103,6 @@ _ a _ _ _
 
 ---
 
-## ⚠️ Known Limitations
-
-* No input validation for invalid characters
-* No replay option after game ends
-* Limited word list
-
----
-
 ## 🚀 Future Improvements
 
 * ✅ Input validation (only single letter allowed)
@@ -111,3 +132,20 @@ Contributions are welcome!
 
 ---
 
+## 🙌 Acknowledgements
+
+* Inspired by the classic Hangman game
+* Built as part of learning Python fundamentals
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 💡 Author
+
+**Prem Kumar**
+Made with ❤️ and logic 😄
