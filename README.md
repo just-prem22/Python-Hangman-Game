@@ -10,12 +10,6 @@
 
 ---
 
-## 🎥 Demo
-
-![Hangman Demo](demo.gif)
-
----
-
 ## ✨ Features
 
 | Feature           | Description                              |
