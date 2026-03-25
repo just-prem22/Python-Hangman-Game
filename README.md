@@ -111,20 +111,3 @@ Contributions are welcome!
 
 ---
 
-## 🙌 Acknowledgements
-
-* Inspired by the classic Hangman game
-* Built as part of learning Python fundamentals
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 💡 Author
-
-**Prem Kumar**
-Made with ❤️ and logic 😄
